@@ -1,0 +1,129 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <linyx@stp.net.cn>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.5.4\n"
+"Report-Msgid-Bugs-To: linlinger\n"
+"POT-Creation-Date: 2015-01-13 22:01-0500\n"
+"PO-Revision-Date: 2021-08-24 15:16+CST\n"
+"Last-Translator:  linlinger <linyx@stp.net.cn>\n"
+"Language-Team: alone<LL@li.org>\n"
+"Language:Simplified Chinese \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: ../light-locker-settings.desktop.in.h:1
+#: ../light-locker-settings/light-locker-settings.py:63
+msgid "Light Locker Settings"
+msgstr " 轻锁屏设置"
+
+#: ../light-locker-settings.desktop.in.h:2
+msgid "Configure locking your session"
+msgstr "设置当前会话的锁定设置"
+
+#: ../light-locker-settings/light-locker-settings.glade.h:1
+msgid ""
+"<b><big>Light Locker Settings</big></b>\n"
+"Configure locking your session"
+msgstr ""
+"<b><big>轻锁屏设置</big></b>\n"
+"设置当前会话的锁定设置"
+#: ../light-locker-settings/light-locker-settings.glade.h:3
+msgid "Apply"
+msgstr "应用"
+
+#: ../light-locker-settings/light-locker-settings.glade.h:4
+msgid "Open"
+msgstr "打开"
+
+#: ../light-locker-settings/light-locker-settings.glade.h:5
+msgid "Blank screen after"
+msgstr "熄灭屏幕超时"
+
+#: ../light-locker-settings/light-locker-settings.glade.h:6
+msgid "Switch off display after <i>(depends on hardware support)</i>"
+msgstr "关闭屏幕超时 <i>(需要硬件支持)</i>"
+
+#: ../light-locker-settings/light-locker-settings.glade.h:7
+msgid "<b>Screensaver</b>"
+msgstr "<b>锁屏</b>"
+
+#: ../light-locker-settings/light-locker-settings.glade.h:8
+msgid "Enable light-locker"
+msgstr "启用轻锁屏"
+
+#: ../light-locker-settings/light-locker-settings.glade.h:9
+msgid "Automatically lock the session"
+msgstr "自动锁定会话"
+
+#: ../light-locker-settings/light-locker-settings.glade.h:10
+msgid "Delay locking after screensaver for"
+msgstr "屏保启动后锁定超时"
+
+#: ../light-locker-settings/light-locker-settings.glade.h:11
+msgid "Lock on suspend"
+msgstr "在系统挂起后锁定"
+
+#: ../light-locker-settings/light-locker-settings.glade.h:12
+msgid "<b>Locking</b>"
+msgstr "<b>锁定</b>"
+
+#: ../light-locker-settings/light-locker-settings.glade.h:13
+msgid "When the screensaver is activated"
+msgstr "当锁屏启动时"
+
+#: ../light-locker-settings/light-locker-settings.glade.h:14
+msgid "When the screensaver is deactivated"
+msgstr "当锁屏关闭时"
+
+#: ../light-locker-settings/light-locker-settings.glade.h:15
+#: ../light-locker-settings/light-locker-settings.py:536
+#: ../light-locker-settings/light-locker-settings.py:544
+msgid "Never"
+msgstr "从不"
+
+#: ../light-locker-settings/light-locker-settings.py:42
+msgid "Xfce Power Manager"
+msgstr "Xfce电源管理器"
+
+#: ../light-locker-settings/light-locker-settings.py:375
+msgid "Screen Locker"
+msgstr "锁屏"
+
+#: ../light-locker-settings/light-locker-settings.py:376
+msgid "Launch screen locker program"
+msgstr "启动锁屏程序"
+
+#: ../light-locker-settings/light-locker-settings.py:394
+msgid "Screensaver"
+msgstr "锁屏"
+
+#: ../light-locker-settings/light-locker-settings.py:395
+msgid "Set screensaver timeouts"
+msgstr "设置锁屏超时"
+
+#: ../light-locker-settings/light-locker-settings.py:434
+#, python-format
+msgid "Your screensaver settings are managed by %s."
+msgstr "你的锁屏设置由%s管理"
+
+#: ../light-locker-settings/light-locker-settings.py:538
+#: ../light-locker-settings/light-locker-settings.py:554
+#, python-format
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] "%d分钟"
+msgstr[1] "%d分钟"
+
+#: ../light-locker-settings/light-locker-settings.py:556
+#, python-format
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] "%d秒钟"
+msgstr[1] "%d秒钟"
